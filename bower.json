@@ -1,0 +1,21 @@
+{
+  "name": "Munin",
+  "description": "Septimum's Web Boilerplate",
+  "main": "dist/index.html",
+  "authors": [
+    "Septimum (http://septimum.com)"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Septimum/Munin",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reset-css": "^2.0.2011012603"
+  }
+}
